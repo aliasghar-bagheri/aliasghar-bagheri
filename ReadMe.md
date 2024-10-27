@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Aliasghar
 🧠 I love to learn<br>🚀 I love the problem solving process<br>🌱 I’m learning Next JS<br>⚡ I consider reading books as one of the great hobbies<br>💪 I love growth and development
 
 
