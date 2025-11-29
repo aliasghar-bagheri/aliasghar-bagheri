@@ -1,7 +1,7 @@
 # 💫 Aliasghar
 🧠 I love to learn
 🚀 I love the problem solving process
-🌱 I'm learning Next JS, Docker, TanStack Query, Linux, and Traefik
+🌱 I'm learning Laravel, Linux, and Traefik
 ⚡ I consider reading books as one of the great hobbies
 💪 I love growth and development
 
